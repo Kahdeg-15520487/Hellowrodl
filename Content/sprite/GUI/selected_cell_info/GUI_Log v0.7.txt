@@ -1,0 +1,54 @@
+MAIN INTEL: 175 x 116 - pos: 0;364
+
+SELECTED CELL: 
++Border: 144 x 116 - pos: 175;364
+>Terrain Name - pos: 186;370
+
+=>TERRAIN NAME RULE:
++Remeber to change Tree => to Forest
+building like AirPort => put spce in the middle: Air Port
++For Sea Unit: when at Harbor, Coast use Harbor(Sea), Coast(Sea) for clarify
++For Air Unit: [INSERT TERRAIN NAME](Sky), No Def Star (Air Unit not affected by Terrain
+
++Def Star: 45 x 9 - pos: 265;371
++Cap Point: 49 x 20 - pos: 262;385
+>CP Num - pos: 283;388
++Loaded: 39 x 21 - pos: 181;435
+>Loaded Slot 1: 16 x 16 - pos: 184;438
+>Loaded Slot 2: 16 x 16 - pos: 201;438
++Unit Info: 132 x 25 - pos: 181;453
+>Unit Name - pos: 183;464 (Full name, Ex: Transport Copter, Battle Ship,...)
+>HP Bar: 3 x 100 - pos: 198;458
+>HP Num - pos: 301;455 (10 HP)
+>Fuel Num - pos: 263;465
+>Ammo Num - pos: 294;465
++Unit Sprite: 128 x 76 - pos: 183;385
++Background Sprite: 128 x 76 - pos: 183;385
+
+=>SELECTED CELL RENDER ORDER: Border => Background Sprite => Unit Sprite =>                                 Unit Info => EVERYTHING ELSE
+
+TARGETED CELL: 144 x 116 - pos: 319;364 (Render just like SELECTED CELL)
++144
++Border: 144 x 116 - pos: 319;364
+>Terrain Name - pos: 330;370
++Def Star: 45 x 9 - pos: 409;371
++Cap Point: 49 x 20 - pos: 406;385
+>CP Num - pos: 427;388
++Loaded: 39 x 21 - pos: 325;435
+>Loaded Slot 1: 16 x 16 - pos: 328;438
+>Loaded Slot 2: 16 x 16 - pos: 345;438
++Unit Info: 132 x 25 - pos: 325;453
+>Unit Name - pos: 327;464 (Full name, Ex: Transport Copter, Battle Ship,...)
+>HP Bar: 3 x 100 - pos: 342;458
+>HP Num - pos: 445;455 (10 HP)
+>Fuel Num - pos: 407;465
+>Ammo Num - pos 438;465
++Unit Sprite: 128 x 76 - pos: 327;385
++Background Sprite: 128 x 76 - pos: 327;385
+
+MAP INFO: 92 x 116 - pos: 463;364
+
+MAP: 165 x 165 - pos: 555;315
+
+BUY MENU AND COMMAND MENU WILL BE ADDED NEXT!
+

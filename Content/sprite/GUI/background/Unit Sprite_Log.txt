@@ -1,0 +1,42 @@
+Each one is 128 x 76, 4 lines, 6 each line, Last line only 5 sprite
+[ADD RED, BLUE, GREEN, YELLOW INFRONT]
+
+RED_Unit.png
++LINE 1:
+RED_Soldier, RED_Mech, RED_Mech_River, RED_Soldier_River, RED_Mech_Mountain, RED_Soldier_Mountain
++LINE 2:
+RED_Recon, RED_Tank, RED_AntiAir, RED_Artillery, RED_Rocket, RED_Missile
++LINE 3:
+RED_HeavyTank, RED_APC, RED_Lander, RED_Cruiser, RED_Battleship, RED_Submarine
++LINE 4:
+RED_SubMarine_Dive, RED_TransportCopter, RED_BattleCopter, RED_Fighter, RED_Bomber
+
+BLUE_Unit.png
++LINE 1:
+BLUE_Soldier, BLUE_Mech, BLUE_Mech_River, BLUE_Soldier_River, BLUE_Mech_Mountain, BLUE_Soldier_Mountain
++LINE 2:
+BLUE_Recon, BLUE_Tank, BLUE_AntiAir, BLUE_Artillery, BLUE_Rocket, BLUE_Missile
++LINE 3:
+BLUE_HeavyTank, BLUE_APC, BLUE_Lander, BLUE_Cruiser, BLUE_Battleship, BLUE_Submarine
++LINE 4:
+BLUE_SubMarine_Dive, BLUE_TransportCopter, BLUE_BattleCopter, BLUE_Fighter, BLUE_Bomber
+
+YELLOW_Unit.png
++LINE 1:
+YELLOW_Soldier, YELLOW_Mech, YELLOW_Mech_River, YELLOW_Soldier_River, YELLOW_Mech_Mountain, YELLOW_Soldier_Mountain
++LINE 2:
+YELLOW_Recon, YELLOW_Tank, YELLOW_AntiAir, YELLOW_Artillery, YELLOW_Rocket, YELLOW_Missile
++LINE 3:
+YELLOW_HeavyTank, YELLOW_APC, YELLOW_Lander, YELLOW_Cruiser, YELLOW_Battleship, YELLOW_Submarine
++LINE 4:
+YELLOW_SubMarine_Dive, YELLOW_TransportCopter, YELLOW_BattleCopter, YELLOW_Fighter, YELLOW_Bomber
+
+GREEN_Unit.png
++LINE 1:
+GREEN_Soldier, GREEN_Mech, GREEN_Mech_River, GREEN_Soldier_River, GREEN_Mech_Mountain, GREEN_Soldier_Mountain
++LINE 2:
+GREEN_Recon, GREEN_Tank, GREEN_AntiAir, GREEN_Artillery, GREEN_Rocket, YELLOW_Missile
++LINE 3:
+GREEN_HeavyTank, GREEN_APC, GREEN_Lander, GREEN_Cruiser, YELLOW_Battleship, YELLOW_Submarine
++LINE 4:
+GREEN_SubMarine_Dive, GREEN_TransportCopter, GREEN_BattleCopter, GREEN_Fighter, GREEN_Bomber

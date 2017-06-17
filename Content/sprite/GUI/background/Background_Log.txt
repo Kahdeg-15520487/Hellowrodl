@@ -1,0 +1,55 @@
+Each sprites is 128 x 76, 4 line, each line is 5 sprite.
+Sprite usage: 
++Background MissleSilo also used for MissleSiloLaunched
++Background Sea used for all Sea Unit even on Cliff, Harbor, Reef, Coast, SupplyBase
++Background Sky used for all Air Unit everywhere
+
+BG_Normal.png
++LINE 1:
+RED_HQ, BLUE_HQ, GREEN_HQ, YELLOW_HQ, Plain
++LINE 2:
+Road, Factory, AirPort, Harbor, City
++LINE 3:
+MissleSilo, SupplyBase, Radar, Tree, Mountain
++LINE 4:
+Bridge, River, Coast, Sea, Sky
+
+BG_Desert.png
++LINE 1:
+Desert_RED_HQ, Desert_BLUE_HQ, Desert_GREEN_HQ, Desert_YELLOW_HQ, Desert_Plain
++LINE 2:
+Desert_Road, Desert_Factory, Desert_AirPort, Desert_Harbor, Desert_City
++LINE 3:
+Desert_MissleSilo, Desert_SupplyBase, Desert_Radar, Desert_Tree, Desert_Mountain
++LINE 4:
+Desert_Bridge, Desert_River, Desert_Coast, Desert_Sea, Desert_Sky
+
+BG_Rain.png
++LINE 1:
+Rain_RED_HQ, Rain_BLUE_HQ, Rain_GREEN_HQ, Rain_YELLOW_HQ, Rain_Plain
++LINE 2:
+Rain_Road, Rain_Factory, Rain_AirPort, Rain_Harbor, Rain_City
++LINE 3:
+Rain_MissleSilo, Rain_SupplyBase, Rain_Radar, Rain_Tree, Rain_Mountain
++LINE 4:
+Rain_Bridge, Rain_River, Rain_Coast, Rain_Sea, Rain_Sky
+
+BG_Snow.png
++LINE 1:
+Snow_RED_HQ, Snow_BLUE_HQ, Snow_GREEN_HQ, Snow_YELLOW_HQ, Plain
++LINE 2:
+Snow_Road, Snow_Factory, Snow_AirPort, Snow_Harbor, Snow_City
++LINE 3:
+Snow_MissleSilo, Snow_SupplyBase, Snow_Radar, Snow_Tree, Snow_Mountain
++LINE 4:
+Snow_Bridge, Snow_River, Snow_Coast, Snow_Sea, Snow_Sky
+
+BG_Tropical.png
++LINE 1:
+Tropical_RED_HQ, Tropical_BLUE_HQ, Tropical_GREEN_HQ, Tropical_YELLOW_HQ, Tropical_Plain
++LINE 2:
+Tropical_Road, Tropical_Factory, Tropical_AirPort, Tropical_Harbor, Tropical_City
++LINE 3:
+Tropical_MissleSilo, Tropical_SupplyBase, Tropical_Radar, Tropical_Tree, Tropical_Mountain
++LINE 4:
+Tropical_Bridge, Tropical_River, Tropical_Coast, Tropical_Sea, Tropical_Sky

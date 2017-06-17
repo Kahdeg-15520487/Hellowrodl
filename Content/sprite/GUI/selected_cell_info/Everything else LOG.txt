@@ -1,0 +1,35 @@
+All remaining sprite sheet has 1 line
+
+SC_Border.png
+5 Sprites: 144 x 116
+BLUE_Border, RED_Border, YELLOW_Border, GREEN_Border, NEUTRAL_Border
+
+SC_Buy_A_H.png (Buy Menu for Air Port and Harbor)
+4 Sprites: 146 x 112
+BLUE_Buy_A_H, RED_Buy_A_H, YELLOW_Buy_A_H, GREEN_Buy_A_H
+
+SC_Buy_F.png (Buy Menu for Factory)
+4 Sprites: 146 x 180
+BLUE_Buy_F, RED_Buy_F, YELLOW_Buy_F, GREEN_Buy_F
+
+SC_Cap_Point.png
+4 Sprites: 49 x 20
+BLUE_Cap_Point, RED_Cap_Point, YELLOW_Cap_Point, GREEN_Cap_Point
+
+SC_Def_Star.png
+1 Sprites: 45 x 9
+4_Def_Star
+NOTE: Crop the image for 1,2,3 star
+
+SC_HP_Bar.png
+1 Sprites: 3 x 100
+HP_Bar
+NOTE: Crop the image for % remaing HP
+
+SC_Loaded.png (for APC, Lander, Transport Copter)
+4 Sprites: 39 x 21
+BLUE_Loaded, RED_Loaded, YELLOW_Loaded, GREEN_Loaded
+
+SC_Unit_Info.png (only render if there is Unit in the cell)
+4 Sprites: 132 x 25
+BLUE_Unit_Info, RED_Unit_Info, YELLOW_Unit_Info, GREEN_Unit_Info
